@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Freelosophy</title>
+    <link href="/css/bootstrap.min.css" rel="stylesheet">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+  </head>
+  <body>
+    <ul class="nav">
+      <li class="nav-item">
+	<a class="nav-link" href="https://phil-2-314822.nw.r.appspot.com/">Freelosophy</a>
+      </li>
+      <li class="nav-item">
+	<a class="nav-link" href="https://phil-2-314822.nw.r.appspot.com/about">About</a>
+      </li>
+    </ul>
+
+    <div id="spinner" class="text-center" style="display:none">
+      <div class="spinner-border" role="status">
+	<span class="visually-hidden">Loading...</span>
+      </div>
+    </div>
+
+    <div id="searchForm" class="text-center" style="margin-top:5%">
+      <form method="get" action="https://phil-2-314822.nw.r.appspot.com/">
+	<input type="text" name="id" placeholder="PhilPapers/Archive ID" required="required" autofocus>
+	<button type="submit">Search</button>
+      </form>
+    </div>
+
+    <div id="browse-link" class="text-center"; style="margin-top:5%">
+      <a href="https://phil-2-314822.nw.r.appspot.com/browse/?order=lastCommentTime&descending=true">Browse
+      comments</a>
+    </div>
+
+    <script src="/js/index.js"></script>
+
+    <script src="/js/bootstrap.bundle.min.js"></script>
+  </body>
+</html>
