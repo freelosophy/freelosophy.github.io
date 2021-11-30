@@ -12,5 +12,5 @@ if (randomInt % 2 == 0) {
   f1.textContent = "Giulio Pietroiusti";
   f1.setAttribute("href", "https://pietroiusti.github.io/");
   f2.textContent = "Filippo Contesi";
-  f2.setAttribute("href", "https://philpeople.org/profiles/filippo-f-contesi/");
+  f2.setAttribute("href", "https://contesi.wordpress.com/");
 }
