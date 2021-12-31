@@ -1,5 +1,6 @@
 body {
     /* background-color: #f7f7f7; */
+    font-family: 'Dosis', sans-serif;
 }
 
 input {
@@ -25,6 +26,7 @@ select {
 
 .nav {
     background-color: #ffffff;
+    font-family: 'Indie Flower', cursive;
 }
 
 #info-paper {
