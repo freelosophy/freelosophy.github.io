@@ -1,0 +1,121 @@
+body {
+    /* background-color: #f7f7f7; */
+}
+
+input {
+    border-radius: 5px;
+}
+
+button {
+    border-radius: 5px;
+}
+
+#searchForm {
+    margin-top:5%;
+}
+
+#browseLink {
+    margin-top:5%;
+}
+
+select {
+    border-radius: 5px;
+    background-color: #ffffff;
+}
+
+.nav {
+    background-color: #ffffff;
+}
+
+#info-paper {
+    width:50%;
+    margin:30px;
+}
+
+#add-comment-link {
+    margin:20px;
+}
+
+#comments-div {
+    width:60%;
+}
+
+.comment {
+    margin: 20px 0px 20px 0px;
+}
+
+.commentHeader{
+    text-align: start;
+}
+
+.commentText {
+    text-align: start;
+    /* background-color: #f7f7f7; */
+    background-color: #ffffff;
+    box-shadow: 10px 10px 10px #f7f7f7;
+    border-radius: 5px;
+    padding: 3px 3px 3px 3px;
+}
+
+#about-main {
+    margin-top: 5%;
+}
+
+.about-paragraph {
+    margin-top: 2%; 
+    width:60%;
+}
+
+#browse-filters {
+    margin-top: 3px;
+}
+
+#commented-papers-list {
+    width:60%;
+}
+
+.commented-paper {
+    margin: 20px 0px 20px 0px;
+}
+
+#comment-form-div {
+    width:60%;
+}
+
+.comment-form-el {
+    margin: 10px 0px 10px 0px;
+}
+
+#char-limit-counter {
+    font-size: 12px;
+}
+
+#comment-back-link {
+    margin: 20px 0px 0px 0px;
+}
+
+#comment-textarea {
+    resize: both;
+}
+
+textarea {
+    border-radius: 5px;
+}
+
+#confirmation-main {
+    margin: 3% 0 0 0;
+    width:60%;
+}
+
+#confirmation-submit {
+    margin: 10px 0px 10px 0px;
+}
+
+#security-question {
+    margin: 5% 0 0 0;
+}
+
+#message-main {
+    width: 60%; 
+    margin: 30px;
+}
